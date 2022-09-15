@@ -1,4 +1,3 @@
 <div align="center">
-  <img align="top" src="header.svg" height="400" />
+  <img src="header.svg" />
 </div>
-
