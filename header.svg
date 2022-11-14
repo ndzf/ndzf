@@ -17,6 +17,7 @@
         position: relative;
         font-size: 9vw;
         animation: glitch 5s 5s infinite;
+	font-family: sans-serif;
       }
 
       .glitch::before,
